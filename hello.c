@@ -1,7 +1,7 @@
 #include <GL/glut.h>
 #include <GL/glu.h>
 
- 旋转角度
+ /* 旋转角度 */
 static float angle = 0.0;
 
 void display() {
